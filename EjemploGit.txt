@@ -1,0 +1,3 @@
+Mi nombre es Angel Luis Molina Guzman
+y este es mi primer ejemplo de git 
+del curso de platzi.
