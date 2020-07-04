@@ -1,3 +1,4 @@
-Mi nombre es Angel Luis Molina Guzman
+Mi nombre es Angel Luis Molina Guzman 
+naci en Ecuador 
 y este es mi primer ejemplo de git 
 del curso de platzi.
